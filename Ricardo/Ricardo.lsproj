@@ -1,0 +1,951 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1543902463232",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "FullscreenTemplate",
+                        "FullscreenTemplateManager"
+                    ],
+                    [
+                        "FullscreenTemplate",
+                        "FullscreenTemplateState"
+                    ],
+                    [
+                        "Guess What [REMOVE_ME]",
+                        "Sounds",
+                        "Credit"
+                    ],
+                    [
+                        "Guess What [REMOVE_ME]",
+                        "Sounds",
+                        "GuessWhat"
+                    ],
+                    [
+                        "Guess What [REMOVE_ME]",
+                        "Sounds",
+                        "Idle"
+                    ],
+                    [
+                        "Guess What [REMOVE_ME]",
+                        "Textures"
+                    ],
+                    [
+                        "Guess What [REMOVE_ME]",
+                        "Textures",
+                        "base_post_effect_lookup_table_vhs"
+                    ],
+                    [
+                        "Guess What [REMOVE_ME]",
+                        "Textures",
+                        "black"
+                    ],
+                    [
+                        "Guess What [REMOVE_ME]",
+                        "Textures",
+                        "credit_block"
+                    ],
+                    [
+                        "Guess What [REMOVE_ME]",
+                        "Textures",
+                        "guess_what_intro"
+                    ],
+                    [
+                        "Guess What [REMOVE_ME]",
+                        "Textures",
+                        "scanlines"
+                    ],
+                    [
+                        "Guess What [REMOVE_ME]",
+                        "Textures",
+                        "tap_to_freeze"
+                    ],
+                    [
+                        "Guess What [REMOVE_ME]",
+                        "Textures",
+                        "vhs"
+                    ],
+                    [
+                        "Helpers",
+                        "TweenSystem"
+                    ],
+                    [
+                        "Helpers",
+                        "TweenSystem",
+                        "Tween"
+                    ],
+                    [
+                        "Helpers",
+                        "TweenSystem",
+                        "TweenManager"
+                    ],
+                    [
+                        "Helpers",
+                        "TweenSystem",
+                        "TweenTypes"
+                    ],
+                    [
+                        "Helpers",
+                        "TweenSystem",
+                        "TweenTypes",
+                        "TweenAlpha"
+                    ],
+                    [
+                        "Helpers",
+                        "TweenSystem",
+                        "TweenTypes",
+                        "TweenBillboard"
+                    ],
+                    [
+                        "Helpers",
+                        "TweenSystem",
+                        "TweenTypes",
+                        "TweenColor"
+                    ],
+                    [
+                        "Helpers",
+                        "TweenSystem",
+                        "TweenTypes",
+                        "TweenTransform"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Camera Output"
+                    ],
+                    [
+                        "Textures",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Textures",
+                        "Orthographic Camera Output"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517007068250866:30722",
+                    "1517007758601161:158470"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "feb45b248415964f183336576ff1bd2e",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "FullscreenTemplate"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "4",
+                    "uid": "1516816959393271:1216",
+                    "name": "\/Resources\/Resource4",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1516816959396483:1228",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "6",
+                    "uid": "1516816959405055:1240",
+                    "name": "\/Resources\/Resource6",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1516816959457645:1272",
+                    "name": "\/Resources\/Resource8",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1516816959490074:1292",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1516816959494705:1304",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1516816959496010:1316",
+                    "name": "\/Resources\/Resource11.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1516816959498797:1328",
+                    "name": "\/Resources\/Resource12.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1516816959516590:1340",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1516816959519945:1352",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1516817239758513:11104",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1516817308302878:13661",
+                    "name": "\/Resources\/Resource26",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1516817329133536:13711",
+                    "name": "\/Resources\/Resource27.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1517007068257841:30741",
+                    "name": "\/Resources\/Resource28.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1517007068260568:30753",
+                    "name": "\/Resources\/Resource29.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1517007068263011:30765",
+                    "name": "\/Resources\/Resource30.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1517007068282573:30849",
+                    "name": "\/Resources\/Resource37.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1517007068289502:30873",
+                    "name": "\/Resources\/Resource39.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1517007068292616:30885",
+                    "name": "\/Resources\/Resource40.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1517007134695014:34122",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1517007828798339:160527",
+                    "name": "\/Resources\/Resource43",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1517007885575191:161160",
+                    "name": "\/Resources\/Resource43",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1517007893001953:161805",
+                    "name": "\/Resources\/Resource43",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1517007914465865:162523",
+                    "name": "\/Resources\/Resource43",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1517008532085103:181401",
+                    "name": "\/Resources\/Resource48.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1517008535362303:181418",
+                    "name": "\/Resources\/Resource49.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1517008535414979:181435",
+                    "name": "\/Resources\/Resource50.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1517008535458632:181452",
+                    "name": "\/Resources\/Resource51.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1517009255672690:287890",
+                    "name": "\/Resources\/Resource52.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "56",
+                    "uid": "1517009273082575:288936",
+                    "name": "\/Resources\/Resource56",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1517011229947648:379323",
+                    "name": "\/Resources\/Resource57.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1517262826368393:1269925",
+                    "name": "\/Resources\/Resource58.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1517262826422005:1269942",
+                    "name": "\/Resources\/Resource59.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1517262826460236:1269959",
+                    "name": "\/Resources\/Resource60.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1517263475452231:1298327",
+                    "name": "\/Resources\/Resource61",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1543898933990100:6859",
+                    "name": "\/Resources\/Resource62.mp3",
+                    "sourceFilePath": "C:\/Users\/Matthew Horton\/Desktop\/vlc-record-2018-12-03-22h46m13s-vlc-record-2018-12-03-22h44m53s-♂BASSHUNTER DOTA RIGHT VERSION♂ ♂ASSHUNTER♂ (320  kbps).mp3-.mp3-.mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "63",
+                    "uid": "1543898934009657:6870",
+                    "name": "\/Resources\/Resource63.mp3",
+                    "sourceFilePath": "C:\/Users\/Matthew Horton\/Desktop\/vlc-record-2018-12-03-22h47m43s-Paramore Hard Times [OFFICIAL VIDEO].mp3-.mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1516816959384060:956",
+                "1": "1516816959384066:959",
+                "2": "1516816959384605:1029",
+                "3": "1516816959384635:1039",
+                "4": "1516816959384762:1109",
+                "5": "1516816959384892:1169",
+                "6": "1516817239630663:11021",
+                "7": "1516817308223821:13637",
+                "8": "1516817308232411:13640",
+                "9": "1517007068250121:30557",
+                "10": "1517007114789655:32757",
+                "11": "1517007134694715:34062",
+                "12": "1517007758601161:158470",
+                "13": "1517007828717638:160504",
+                "14": "1517007885575052:161150",
+                "15": "1517007893001768:161795",
+                "16": "1517007914465668:162513",
+                "17": "1517007926620584:163217",
+                "18": "1517007950063410:164295",
+                "19": "1517008571036767:183649",
+                "20": "1517008703235398:206033",
+                "21": "1517008793782152:209485",
+                "22": "1517008795511060:210211",
+                "23": "1517008796523420:210954",
+                "24": "1517009272966654:288908"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Orthographic Camera Output",
+                                "resourceId": "22",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Helpers",
+                        "groups": [
+                            {
+                                "name": "TweenSystem",
+                                "groups": [
+                                    {
+                                        "name": "TweenTypes",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "TweenTransform",
+                                                "resourceId": "29",
+                                                "extension": "js"
+                                            },
+                                            {
+                                                "name": "TweenColor",
+                                                "resourceId": "37",
+                                                "extension": "js"
+                                            },
+                                            {
+                                                "name": "TweenAlpha",
+                                                "resourceId": "39",
+                                                "extension": "js"
+                                            },
+                                            {
+                                                "name": "TweenBillboard",
+                                                "resourceId": "40",
+                                                "extension": "js"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "resources": [
+                                    {
+                                        "name": "Tween",
+                                        "resourceId": "28",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenManager",
+                                        "resourceId": "30",
+                                        "extension": "js"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "PlayTweensOnStart",
+                                "resourceId": "48",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "HideWhenRecording",
+                                "resourceId": "51",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "FreezeCameraOnStart",
+                                "resourceId": "57",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FullscreenTemplate",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "FullscreenTemplateManager",
+                                "resourceId": "49",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "FullscreenTemplateState",
+                                "resourceId": "50",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Guess What [REMOVE_ME]",
+                        "groups": [
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "vhs",
+                                        "resourceId": "6",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "scanlines",
+                                        "resourceId": "8",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "black",
+                                        "resourceId": "11",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "credit_block",
+                                        "resourceId": "12",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "base_post_effect_lookup_table_vhs",
+                                        "resourceId": "27",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "tap_to_freeze",
+                                        "resourceId": "52",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "guess_what_intro",
+                                        "resourceId": "61",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sounds",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Credit",
+                                        "resourceId": "58",
+                                        "extension": "mp3"
+                                    },
+                                    {
+                                        "name": "GuessWhat",
+                                        "resourceId": "59",
+                                        "extension": "mp3"
+                                    },
+                                    {
+                                        "name": "Idle",
+                                        "resourceId": "60",
+                                        "extension": "mp3"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "vlc-record-2018-12-03-22h46m13s-vlc-record-2018-12-03-22h44m53s-♂BASSHUNTER DOTA RIGHT VERSION♂ ♂ASSHUNTER♂ (320  kbps)",
+                        "resourceId": "62",
+                        "extension": "mp3"
+                    },
+                    {
+                        "name": "vlc-record-2018-12-03-22h47m43s-Paramore Hard Times [OFFICIAL VIDEO]",
+                        "resourceId": "63",
+                        "extension": "mp3"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "6",
+                    "path": "Guess What [REMOVE_ME]\/Textures\/vhs"
+                },
+                {
+                    "id": "8",
+                    "path": "Guess What [REMOVE_ME]\/Textures\/scanlines"
+                },
+                {
+                    "id": "11",
+                    "path": "Guess What [REMOVE_ME]\/Textures\/black.png"
+                },
+                {
+                    "id": "12",
+                    "path": "Guess What [REMOVE_ME]\/Textures\/credit_block.png"
+                },
+                {
+                    "id": "27",
+                    "path": "Guess What [REMOVE_ME]\/Textures\/base_post_effect_lookup_table_vhs.png"
+                },
+                {
+                    "id": "28",
+                    "path": "Helpers\/TweenSystem\/Tween.js"
+                },
+                {
+                    "id": "29",
+                    "path": "Helpers\/TweenSystem\/TweenTypes\/TweenTransform.js"
+                },
+                {
+                    "id": "30",
+                    "path": "Helpers\/TweenSystem\/TweenManager.js"
+                },
+                {
+                    "id": "37",
+                    "path": "Helpers\/TweenSystem\/TweenTypes\/TweenColor.js"
+                },
+                {
+                    "id": "39",
+                    "path": "Helpers\/TweenSystem\/TweenTypes\/TweenAlpha.js"
+                },
+                {
+                    "id": "40",
+                    "path": "Helpers\/TweenSystem\/TweenTypes\/TweenBillboard.js"
+                },
+                {
+                    "id": "48",
+                    "path": "Helpers\/PlayTweensOnStart.js"
+                },
+                {
+                    "id": "49",
+                    "path": "FullscreenTemplate\/FullscreenTemplateManager.js"
+                },
+                {
+                    "id": "50",
+                    "path": "FullscreenTemplate\/FullscreenTemplateState.js"
+                },
+                {
+                    "id": "51",
+                    "path": "Helpers\/HideWhenRecording.js"
+                },
+                {
+                    "id": "52",
+                    "path": "Guess What [REMOVE_ME]\/Textures\/tap_to_freeze.png"
+                },
+                {
+                    "id": "57",
+                    "path": "Helpers\/FreezeCameraOnStart.js"
+                },
+                {
+                    "id": "58",
+                    "path": "Guess What [REMOVE_ME]\/Sounds\/Credit.mp3"
+                },
+                {
+                    "id": "59",
+                    "path": "Guess What [REMOVE_ME]\/Sounds\/GuessWhat.mp3"
+                },
+                {
+                    "id": "60",
+                    "path": "Guess What [REMOVE_ME]\/Sounds\/Idle.mp3"
+                },
+                {
+                    "id": "61",
+                    "path": "Guess What [REMOVE_ME]\/Textures\/guess_what_intro"
+                },
+                {
+                    "id": "62",
+                    "path": "vlc-record-2018-12-03-22h46m13s-vlc-record-2018-12-03-22h44m53s-♂BASSHUNTER DOTA RIGHT VERSION♂ ♂ASSHUNTER♂ (320  kbps).mp3"
+                },
+                {
+                    "id": "63",
+                    "path": "vlc-record-2018-12-03-22h47m43s-Paramore Hard Times [OFFICIAL VIDEO].mp3"
+                }
+            ]
+        }
+    }
+}
